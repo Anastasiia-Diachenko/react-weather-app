@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-codica/static/css/main.b10435b5.css",
+    "main.js": "/react-redux-codica/static/js/main.e4ad2541.js",
+    "index.html": "/react-redux-codica/index.html",
+    "main.b10435b5.css.map": "/react-redux-codica/static/css/main.b10435b5.css.map",
+    "main.e4ad2541.js.map": "/react-redux-codica/static/js/main.e4ad2541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10435b5.css",
+    "static/js/main.e4ad2541.js"
+  ]
+}
