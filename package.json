@@ -1,7 +1,7 @@
 {
   "name": "react-redux-codica",
   "version": "0.1.0",
-  "homepage": "https://github.com/Anastasiia-Diachenko/react-weather-app",
+  "homepage": "https://Anastasiia-Diachenko.github.io/react-weather-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
