@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Anastasiia-Diachenko.github.io/react-redux-weather-app",
   "name": "react-redux-codica",
   "version": "0.1.0",
+  "homepage": "https://github.com/Anastasiia-Diachenko/react-weather-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -28,7 +28,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
