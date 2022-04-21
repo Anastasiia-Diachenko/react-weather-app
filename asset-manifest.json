@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-redux-codica/static/css/main.b10435b5.css",
-    "main.js": "/react-redux-codica/static/js/main.e4ad2541.js",
-    "index.html": "/react-redux-codica/index.html",
-    "main.b10435b5.css.map": "/react-redux-codica/static/css/main.b10435b5.css.map",
-    "main.e4ad2541.js.map": "/react-redux-codica/static/js/main.e4ad2541.js.map"
+    "main.css": "/Anastasiia-Diachenko/react-weather-app/static/css/main.b10435b5.css",
+    "main.js": "/Anastasiia-Diachenko/react-weather-app/static/js/main.e4ad2541.js",
+    "index.html": "/Anastasiia-Diachenko/react-weather-app/index.html",
+    "main.b10435b5.css.map": "/Anastasiia-Diachenko/react-weather-app/static/css/main.b10435b5.css.map",
+    "main.e4ad2541.js.map": "/Anastasiia-Diachenko/react-weather-app/static/js/main.e4ad2541.js.map"
   },
   "entrypoints": [
     "static/css/main.b10435b5.css",
